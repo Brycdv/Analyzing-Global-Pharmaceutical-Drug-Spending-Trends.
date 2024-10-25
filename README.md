@@ -12,8 +12,11 @@ Our analysis reveals significant variations in pharmaceutical spending across co
 ## Data Preprocessing
 
 To prepare the dataset for analysis, several preprocessing steps were taken:
+
 Missing Values: Handled missing values by either imputing or omitting incomplete data entries.
+
 Data Transformation: Converted currency values and unified formats where necessary.
+
 Normalization: Adjusted spending data to account for inflation and standardize values across different years.
 
 ## Exploratory Data Analysis
