@@ -19,7 +19,8 @@ Normalization: Adjusted spending data to account for inflation and standardize v
 ## Exploratory Data Analysis
 
 ### Visualization
-![image](https://github.com/user-attachments/assets/d25542a5-809e-43f9-a2e8-786c21e5ffe9)
+![image](https://github.com/user-attachments/assets/d574dd00-a1ff-40a3-86ad-378d6e5ac7f0)
+
 
 (visualization) - [image form] This will be a visualization of the data that you have chosen to represent in the project; each visualization must have a corresponding interpretation. All visualizations must be placed here.
 
