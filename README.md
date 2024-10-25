@@ -1,6 +1,6 @@
 # Analyzing-Global-Pharmaceutical-Drug-Spending-Trends.
 This project aims to analyze global trends in pharmaceutical drug spending, focusing on variations over time and across different countries. By investigating these trends, we can gain insights into the economic impact of drug expenditures and assess the factors driving pharmaceutical costs.
-(title)
+#(title)
 (project_description) - [text form] This will be in the form of a question or a statement that describes the project, like an overview of the project.
 
 Dataset Description
