@@ -3,7 +3,7 @@ This project aims to analyze global trends in pharmaceutical drug spending, focu
 
 ## Dataset Description
 
-The dataset chosen for this project comes from DataHub.io, detailing pharmaceutical drug spending data across multiple countries and years. It includes metrics such as country, year, total drug spending, and spending per capita, providing a comprehensive view of global drug expenditure trends.
+The dataset chosen for this project comes from DataHub.io (https://datahub.io/core/pharmaceutical-drug-spending) detailing pharmaceutical drug spending data across multiple countries and years. It includes metrics such as country, year, total drug spending, and spending per capita, providing a comprehensive view of global drug expenditure trends.
 
 ## Summary of Findings
 
