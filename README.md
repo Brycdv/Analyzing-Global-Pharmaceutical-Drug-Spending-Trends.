@@ -20,22 +20,23 @@ Normalization: Adjusted spending data to account for inflation and standardize v
 
 ### Visualization
 ![image](https://github.com/user-attachments/assets/d574dd00-a1ff-40a3-86ad-378d6e5ac7f0)
-
+![image](https://github.com/user-attachments/assets/b04c327d-c919-4a79-bfcc-dac2cc87e40a)
+![image](https://github.com/user-attachments/assets/f76b12e6-90b0-4893-9cd9-05d69002f03d)
+![image](https://github.com/user-attachments/assets/db24bc25-ffe0-405a-95d3-24ea3566418f)
+![image](https://github.com/user-attachments/assets/74af22de-5adb-408e-a27d-c1b3dcb4887d)
+![image](https://github.com/user-attachments/assets/1bbc7ce4-5c6e-40c1-ac4e-89f8a43cf8ad)
 
 (visualization) - [image form] This will be a visualization of the data that you have chosen to represent in the project; each visualization must have a corresponding interpretation. All visualizations must be placed here.
 
 ## Model Development
 
-(model_development) - [text form] This will be a brief description of the model development process that you have taken to create the model for the project.
-
+A time-series forecasting model was developed to predict future drug spending based on historical data. We experimented with models such as ARIMA and Prophet to capture temporal patterns and seasonality in drug spending trends.
 ## Model Evaluation
 
-(model_evaluation) - [text form] This will be a brief description of the model evaluation process that you have taken to evaluate the model's performance for the project.
-
+Model evaluation was conducted using metrics like Mean Absolute Error (MAE) and Root Mean Squared Error (RMSE). Our final model demonstrated high accuracy in predicting spending trends, especially for countries with stable, increasing patterns of expenditure.
 ## Conclusion
 
-(conclusion) - [text form] This will be a brief conclusion of the project, summarizing the key findings and insights from the analysis.
-
+This project highlights the rising global trend in pharmaceutical drug spending and identifies key factors influencing these costs. Insights from this analysis can inform policymakers in designing budget allocations and cost-management strategies in healthcare.
 ## Contributors
 
 ❗ NOTE: Your professor be the one to fill this section.
