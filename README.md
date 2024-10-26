@@ -43,14 +43,13 @@ Normalization: Adjusted spending data to account for inflation and standardize v
 
 A time-series forecasting model was developed to predict future drug spending based on historical data. We experimented with models such as ARIMA and Prophet to capture temporal patterns and seasonality in drug spending trends.
 ## Model Evaluation
-  ![image](https://github.com/user-attachments/assets/69117abf-0ecf-433c-b2d0-2f1dfc71cb4a)
-
 Model evaluation was conducted using metrics like Mean Absolute Error (MAE) and Root Mean Squared Error (RMSE). Our final model demonstrated high accuracy in predicting spending trends, especially for countries with stable, increasing patterns of expenditure.
 ## Conclusion
 
 This project highlights the rising global trend in pharmaceutical drug spending and identifies key factors influencing these costs. Insights from this analysis can inform policymakers in designing budget allocations and cost-management strategies in healthcare.
 ## Documentation
-  
+  ![image](https://github.com/user-attachments/assets/3cd627d9-89c5-41b1-9229-a898369b2bb7)
+
 ## Contributors
 
 ❗ NOTE: Your professor be the one to fill this section.
